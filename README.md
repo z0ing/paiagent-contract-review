@@ -1,3 +1,6 @@
+> **个人改造说明**
+> 本项目基于开源项目 [PaiAgent](https://github.com/itwanger/PaiAgent) 二次开发，上游基线 commit `0529730`，其后为个人提交。
+> 个人改造范围：Spring AI 1.1 GA 升级 + MCP 工具化；租房合同审核技能包；人工审批节点与评测出数。
 <div align="center">
 
 # PaiAgent
